@@ -1,0 +1,13 @@
+.loginbtn{
+	border: 1px solid white!important;
+	border-radius: 2px ;
+	background-color: rgb(0, 0, 0,0);
+	
+}
+
+a:hover{
+	 cursor: pointer;
+}
+.onHover:hover{
+	cursor: pointer;
+}

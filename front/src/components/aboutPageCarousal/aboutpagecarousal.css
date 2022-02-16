@@ -1,0 +1,26 @@
+.seperator{
+	border-right: 100px solid white;
+}
+
+img{
+	border: 4px solid white;
+	max-width: 300px;
+	max-height: 300px;
+	background-position: center;
+}
+.about-desc{
+	font-size: 20px;
+}
+
+.data-about{
+	background-color: rgb(219.37, 167.76, 14.625,0.7);
+}
+
+td{
+	font-size: 20px;
+}
+table{
+	position: relative;
+	padding-left: 200px;
+	display:  grid;
+}

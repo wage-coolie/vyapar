@@ -1,0 +1,9 @@
+
+.card{
+	max-width: 250px;
+}
+
+
+.card-market:hover{
+ cursor: pointer;
+}

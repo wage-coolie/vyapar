@@ -1,0 +1,16 @@
+.img-user{
+	max-height: 400px;
+	max-width: 450px;
+	border: 4px solid yellow;
+}
+.divider{
+	border-bottom: 2px solid white;
+}
+.review{
+	min-width:  300px;
+	min-height:  400 px;
+	background-color: blue;
+}
+.flex-nowrap{
+	overflow-x: auto;
+}

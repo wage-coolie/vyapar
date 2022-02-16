@@ -1,0 +1,21 @@
+.main-card-review{
+	background-color: rgb(173, 255, 47,0.8);
+	margin: 10px;
+}
+.img-review{
+	max-height: 200px;
+	margin: 10px;
+	border: 2px solid white;
+	border-radius: 3%;
+}
+.desc{
+
+	overflow-y: auto;
+}
+
+.product-details{
+	bottom: 0;
+	object-position:	bottom;
+	position: sticky;
+	justify-content: flex-end;
+}

@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: Spectral SC !important; 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+    background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+    background-image: url(../public/backgroundimg.jpg);
+
+
+}
+
+.icon{
+  height: 100px;
+  width: 450px;
+  border-radius: 25px;
+  border: 2px solid;
+}
+

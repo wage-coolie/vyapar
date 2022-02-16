@@ -1,0 +1,38 @@
+.vl {
+  border-right: 10px solid rgb(255, 255, 255);
+  /*background-color: white;*/
+  height: 600px;
+  /*max-width: 10px;*/
+}
+
+@media (max-width: 800px) 
+{
+    .vl
+    {
+        display: none !important;
+    }
+}
+
+.register{
+    max-width: 400px;
+}
+
+.btn{
+    text-align: center !important;
+
+
+}
+
+.shareOption{
+    border-radius: 2%;
+    border: 1px solid white;
+    margin-bottom: 3px;
+}
+
+.shareOptionText:hover{
+    cursor: pointer;
+}
+.shareIcon:hover{
+    cursor: pointer;
+    
+}

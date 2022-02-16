@@ -1,0 +1,19 @@
+.sellerImage{
+	border-radius: 3%;
+	border: 2px solid white;
+	max-height: 400px;
+}
+
+
+.pageSeller-title{
+	padding-bottom: 0px !important;
+
+	margin-bottom: 0px !important;
+	max-height: 50px;
+
+}
+.Recent-headline{
+	background-color: pink;
+	border-radius: 20%;
+	margin-bottom: 10px;
+}

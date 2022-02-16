@@ -78,3 +78,7 @@ others
 [![vyapar](https://ibb.co/vkSWrwm)
 
 
+
+
+<a href="https://ibb.co/Br0zgVg"><img src="https://i.ibb.co/0FHDfjf/Screenshot-2022-02-16-at-23-41-46-Vyapar.png" alt="Screenshot-2022-02-16-at-23-41-46-Vyapar" border="0"></a>
+

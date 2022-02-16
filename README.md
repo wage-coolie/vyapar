@@ -4,6 +4,9 @@
   
   
   This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  
+  <a href="https://ibb.co/5K4HdPG"><img src="https://i.ibb.co/DrW2NZz/Screenshot-2022-02-16-at-23-25-09-Vyapar.png" alt="Screenshot-2022-02-16-at-23-25-09-Vyapar" border="0" /></a>
+  
 
 ## Available Scripts
 
@@ -63,20 +66,6 @@ install dependencies
 
 
 others
-
-[![Vyapar](https://ibb.co/2tr74cx)
-
-
-[![Vyavhar](https://ibb.co/5K4HdPG)
-
-[![vyapar](https://ibb.co/tHxjRrZ)
-
-
-[![vyapar](https://ibb.co/Mc1Ld1m)
-
-
-[![vyapar](https://ibb.co/vkSWrwm)
-
 
 
 

@@ -1,6 +1,6 @@
 # Vyapar | व्यापार 
 
-  ### LIVE URL - [https://youthful-hoover-c9ef5f.netlify.app]
+  ### LIVE URL - [https://vyapar-final.netlify.app/]
   
   
   This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -40,7 +40,7 @@ install dependencies
 
 ### API 
 
-  --- contains backend hosted on heroku having https://cryptic-coast-01230.herokuapp.com/ as backend
+  --- contains backend hosted on heroku having http://vyappar.openode.dev/ as backend
 
   #### lib -
 
@@ -62,8 +62,7 @@ install dependencies
 
 ### vyavhar-front
 
-  --- congtains front end of my app https://youthful-hoover-c9ef5f.netlify.app
-
+  --- congtains front end of my app https://vyapar-final.netlify.app/
 
 others
 
